@@ -16,7 +16,7 @@ If you want to check my project you can do the following:
 4) To set new values, press "Clear" button to clear all fields. Then press "Set" button and enter new numbers.
 5) You can return to original numbers (ones you entered) by pressing "Default" button.
 
-### **That's it! Contact me if you have anything to say**
+### That's it! Contact me if you have anything to say.
 
 
 
